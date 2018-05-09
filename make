@@ -1,0 +1,1 @@
+erl -pa ..\ebin -eval "make:all([debug_info])" -s c q
