@@ -1,2 +1,4 @@
 language: erlang
-script: true
+otp_release:
+  - 19.0
+  - 18.2.1
