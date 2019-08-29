@@ -1,5 +1,5 @@
 %%%-------------------------------------------------------------------
-%%% @author Administrator
+%%% @author sunb
 %%% @copyright (C) 2016, <COMPANY>
 %%% @doc
 %%%
